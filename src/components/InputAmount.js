@@ -90,7 +90,7 @@ const InputAmount = props => {
       <Container>
         <br/>
         <h3 className="display-6">Convert Currency</h3>
-        <br/><br/>
+        <hr/>
         <Form noValidate onSubmit={handleSubmit}>
         <Row>
           <Col xs="auto">
@@ -138,7 +138,7 @@ const InputAmount = props => {
               <option value="HKD">HKD - Hong Kong Dollar</option>
             </Form.Select>
           </Col>
-          <Col md="2"><Button className="submitBtn" type="submit" variant="primary">Convert</Button></Col>
+          <Col md="auto"><Button className="submitBtn" type="submit" variant="primary">Convert</Button></Col>
         </Row>
       </Form>
     </Container>

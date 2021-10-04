@@ -34,6 +34,7 @@ body {
   background-color: #dde9f3;
   border-radius: 10px;
   padding-left: 30px !important;
+  padding-right: 30px !important;
   min-height: 430px;
   max-width: 950PX;
 }
