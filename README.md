@@ -1,3 +1,16 @@
+
+# Forex Calculator App
+
+A simple currency converter buiilt in React.
+
+## Setup
+
+Go into the project folder and install dependancies
+### `npm install`
+
+Then you can run the development server
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
