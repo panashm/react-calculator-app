@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.4;
+  color: #444;
+  background: rgb(255, 255, 255);
+  height: 100vh;
+}
+
+.smallFont {
+  font-size: 13px;
+}
+
+.moreInfo > p {
+  margin-bottom: 0px !important;
+}
+
+.loadingWrapper {
+  height: 25px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+}
+
+.submitBtn {
+  margin-top: 30px;
+}
+
+.mainBack {
+  background-color: #dde9f3;
+  border-radius: 10px;
+  padding-left: 30px !important;
+  min-height: 430px;
+  max-width: 950PX;
+}
